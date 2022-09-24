@@ -3,12 +3,12 @@ Ceci est un jeu plateforme action dévéloppé pour le concours **Games on Web 2
 
 ## Synopsis
 Après t'avoir transformé en cyborg et utilisé pour faire du mal, Dr.Evil a décidé de se débarrasser de toi...  
-Tu survis ton exécution et reprend le contrôle de ton corps...  
+Tu survis de ton exécution et reprend le contrôle de ton corps...  
 Maintenant libéré de la manipulation de Dr.Evil, il est temps pour toi de mettre fin à ses plans maléfiques!
 
 ## Contrôles
 * **flèches directionnelles** pour bouger.
-* **espace** pour sauter (garder appuyé pour sauter plus en haut).
+* **espace** pour sauter (garder appuyé pour sauter plus haut).
 * **e** pour attaquer.
 * **echap** pour pauser le jeu.
 
